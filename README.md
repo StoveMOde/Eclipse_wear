@@ -1,5 +1,3 @@
-# Eclipse_wear
-Final project for COSC 459
 # Eclipse Wear – Eyewear E-Commerce Web Application
 
 Eclipse Wear is a PHP/MySQL-powered e-commerce web application that allows users to browse eyewear products, create an account, manage their profile, add items to a shopping cart, and perform full CRUD operations. The project demonstrates user authentication, input validation, SQL operations, and session-based cart management.
